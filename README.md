@@ -4,12 +4,7 @@
 
 -----------------
 
-
 **IMAge/enGINE** is an open source software for rapid computation of high-dimensional medical image data. It employs a concise UI for clinical researchers without engineering/programming background. In this repository,developers may use the ADC and eADC calculation as an example to implement their own algorithm. Comparing to other open-source software, such as 3DSlicer and ImageJ, IMAge/enGINE is more focused on computation speed and easy-to-use GUI. IMAge/enGINE was originally developed by the R&D team of Vusion Tech Ltd. Co.  
-
-[www.vusion.com.cn] hosts a binary version of IMAge/enGINE equiped with multiple diffusion MRI models which is free to download and use for research and/or education purpose except for the clinical trials funded by pharmaceutical companies and scanner manufactures. 
-
-
 
 ## Build requirement
 ITK 4.11.1, built with itkvtk glue option on
