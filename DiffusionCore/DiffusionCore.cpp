@@ -66,15 +66,14 @@
 #include <itkExtractImageFilter.h>
 #include <itkVectorIndexSelectionCastImageFilter.h>
 
-#include <itkTensorCDwiImageFilter.h>
+
 #include <itkMedianImageFilter.h>
 #include <itkComputedAdcFilter.h>
 #include <itkAdcMapFilter.h>
-#include <itkComputedDwiFilter.h>
+
 #include <itkComputedEadcFilter.h>
 #include <itkMaskVectorImageFilter.h>
-#include <itkGetDiffusionImageFilter.h>
-#include <itkTensor.h>
+
 
 // Qt
 #include <QCheckBox>
